@@ -1,2 +1,5 @@
 # data sources
 data/
+
+#pt models
+*.pt
